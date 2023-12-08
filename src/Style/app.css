@@ -1,0 +1,13 @@
+input{
+    width: 100%;
+}
+
+.custom-btn{
+    width:80px
+}
+
+.row{
+    padding-inline:5%;
+    text-align: left;
+    margin-bottom: 1%;
+}
